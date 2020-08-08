@@ -2,6 +2,6 @@ scipy
 matplotlib
 sklearn
 seaborn
-tensorflow
 notebook
+tensorflow-gpu==2.0.0-alpha0
 
